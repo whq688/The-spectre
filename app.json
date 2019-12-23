@@ -1,0 +1,35 @@
+{
+  "pages": [
+   "pages/bupt/bupt",
+    "pages/index/index",
+    "pages/wx/wx",
+    "pages/logs/logs",
+    "pages/xt/xt",
+    "pages/messi/messi",
+    "pages/fc/fc"
+  ],
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/bupt/bupt",
+        "text": "看一看",
+        "iconPath": "image/timg2.jpg",
+        "selectedIconPath": "image/timg3.jpg"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "text": "听一听",
+        "iconPath": "image/timg4.jpg",
+        "selectedIconPath": "image/timg5.jpg"
+      }
+    ]
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarTitleText": "低头族助手",
+    "navigationBarBackgroundColor": "#0bee8f",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
